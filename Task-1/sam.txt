@@ -1,1 +1,1 @@
-
+Used custom-cnn model with f1-score of 0.8571
