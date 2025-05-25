@@ -1,1 +1,1 @@
-
+Used One class SVM model with f1-score of 0.56
